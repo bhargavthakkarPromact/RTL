@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  RTL_iOS
+
+  Created by Bhargav Thakkar on 19/12/19.
+  Copyright © 2019 Bhargav Thakkar. All rights reserved.
+*/
+"lblHello" =  "مرحبا";
+"btnMove" = "الشاشة التالية";
+"btnBack" =  "الى الخلف";
